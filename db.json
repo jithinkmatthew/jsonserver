@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "user": [
-    { "id":1, "firstName": "Jithin", "LastName": "Mathew", "age": 33}
+    { "id":1, "firstName": "Jithin", "LastName": "Mathew"}
 
 ],
   "profile": {
