@@ -11,7 +11,7 @@
   "user": [
     { "id":1, "firstName": "Jithin", "LastName": "Mathew", "age": 33}
 
-]
+],
   "profile": {
     "name": "typicode"
   }
